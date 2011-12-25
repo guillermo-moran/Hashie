@@ -1,0 +1,299 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		FD0134E214A6816100DF23E8 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FD0134E114A6816100DF23E8 /* Cocoa.framework */; };
+		FD0134EC14A6816100DF23E8 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = FD0134EA14A6816100DF23E8 /* InfoPlist.strings */; };
+		FD0134EE14A6816100DF23E8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FD0134ED14A6816100DF23E8 /* main.m */; };
+		FD0134F214A6816100DF23E8 /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = FD0134F014A6816100DF23E8 /* Credits.rtf */; };
+		FD0134F514A6816100DF23E8 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FD0134F414A6816100DF23E8 /* AppDelegate.m */; };
+		FD0134F814A6816200DF23E8 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = FD0134F614A6816200DF23E8 /* MainMenu.xib */; };
+		FD01350014A681A100DF23E8 /* NSString+MD5.m in Sources */ = {isa = PBXBuildFile; fileRef = FD0134FF14A681A100DF23E8 /* NSString+MD5.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		FD0134DD14A6816100DF23E8 /* Hashie.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hashie.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FD0134E114A6816100DF23E8 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		FD0134E414A6816100DF23E8 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		FD0134E514A6816100DF23E8 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		FD0134E614A6816100DF23E8 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		FD0134E914A6816100DF23E8 /* Hashie-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Hashie-Info.plist"; sourceTree = "<group>"; };
+		FD0134EB14A6816100DF23E8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		FD0134ED14A6816100DF23E8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		FD0134EF14A6816100DF23E8 /* Hashie-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Hashie-Prefix.pch"; sourceTree = "<group>"; };
+		FD0134F114A6816100DF23E8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
+		FD0134F314A6816100DF23E8 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		FD0134F414A6816100DF23E8 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		FD0134F714A6816200DF23E8 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		FD0134FE14A681A100DF23E8 /* NSString+MD5.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+MD5.h"; sourceTree = "<group>"; };
+		FD0134FF14A681A100DF23E8 /* NSString+MD5.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+MD5.m"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FD0134DA14A6816100DF23E8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FD0134E214A6816100DF23E8 /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		FD0134D214A6816100DF23E8 = {
+			isa = PBXGroup;
+			children = (
+				FD0134E714A6816100DF23E8 /* Hashie */,
+				FD0134E014A6816100DF23E8 /* Frameworks */,
+				FD0134DE14A6816100DF23E8 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FD0134DE14A6816100DF23E8 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FD0134DD14A6816100DF23E8 /* Hashie.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FD0134E014A6816100DF23E8 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				FD0134E114A6816100DF23E8 /* Cocoa.framework */,
+				FD0134E314A6816100DF23E8 /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		FD0134E314A6816100DF23E8 /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				FD0134E414A6816100DF23E8 /* AppKit.framework */,
+				FD0134E514A6816100DF23E8 /* CoreData.framework */,
+				FD0134E614A6816100DF23E8 /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		FD0134E714A6816100DF23E8 /* Hashie */ = {
+			isa = PBXGroup;
+			children = (
+				FD0134FE14A681A100DF23E8 /* NSString+MD5.h */,
+				FD0134FF14A681A100DF23E8 /* NSString+MD5.m */,
+				FD0134F314A6816100DF23E8 /* AppDelegate.h */,
+				FD0134F414A6816100DF23E8 /* AppDelegate.m */,
+				FD0134F614A6816200DF23E8 /* MainMenu.xib */,
+				FD0134E814A6816100DF23E8 /* Supporting Files */,
+			);
+			path = Hashie;
+			sourceTree = "<group>";
+		};
+		FD0134E814A6816100DF23E8 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				FD0134E914A6816100DF23E8 /* Hashie-Info.plist */,
+				FD0134EA14A6816100DF23E8 /* InfoPlist.strings */,
+				FD0134ED14A6816100DF23E8 /* main.m */,
+				FD0134EF14A6816100DF23E8 /* Hashie-Prefix.pch */,
+				FD0134F014A6816100DF23E8 /* Credits.rtf */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FD0134DC14A6816100DF23E8 /* Hashie */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FD0134FB14A6816200DF23E8 /* Build configuration list for PBXNativeTarget "Hashie" */;
+			buildPhases = (
+				FD0134D914A6816100DF23E8 /* Sources */,
+				FD0134DA14A6816100DF23E8 /* Frameworks */,
+				FD0134DB14A6816100DF23E8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Hashie;
+			productName = Hashie;
+			productReference = FD0134DD14A6816100DF23E8 /* Hashie.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FD0134D414A6816100DF23E8 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = FD0134D714A6816100DF23E8 /* Build configuration list for PBXProject "Hashie" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = FD0134D214A6816100DF23E8;
+			productRefGroup = FD0134DE14A6816100DF23E8 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FD0134DC14A6816100DF23E8 /* Hashie */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		FD0134DB14A6816100DF23E8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FD0134EC14A6816100DF23E8 /* InfoPlist.strings in Resources */,
+				FD0134F214A6816100DF23E8 /* Credits.rtf in Resources */,
+				FD0134F814A6816200DF23E8 /* MainMenu.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FD0134D914A6816100DF23E8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FD0134EE14A6816100DF23E8 /* main.m in Sources */,
+				FD0134F514A6816100DF23E8 /* AppDelegate.m in Sources */,
+				FD01350014A681A100DF23E8 /* NSString+MD5.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		FD0134EA14A6816100DF23E8 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FD0134EB14A6816100DF23E8 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		FD0134F014A6816100DF23E8 /* Credits.rtf */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FD0134F114A6816100DF23E8 /* en */,
+			);
+			name = Credits.rtf;
+			sourceTree = "<group>";
+		};
+		FD0134F614A6816200DF23E8 /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FD0134F714A6816200DF23E8 /* en */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		FD0134F914A6816200DF23E8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		FD0134FA14A6816200DF23E8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		FD0134FC14A6816200DF23E8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Hashie/Hashie-Prefix.pch";
+				INFOPLIST_FILE = "Hashie/Hashie-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		FD0134FD14A6816200DF23E8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Hashie/Hashie-Prefix.pch";
+				INFOPLIST_FILE = "Hashie/Hashie-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FD0134D714A6816100DF23E8 /* Build configuration list for PBXProject "Hashie" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FD0134F914A6816200DF23E8 /* Debug */,
+				FD0134FA14A6816200DF23E8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FD0134FB14A6816200DF23E8 /* Build configuration list for PBXNativeTarget "Hashie" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FD0134FC14A6816200DF23E8 /* Debug */,
+				FD0134FD14A6816200DF23E8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FD0134D414A6816100DF23E8 /* Project object */;
+}

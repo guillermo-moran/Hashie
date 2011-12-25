@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Hashie' target in the 'Hashie' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

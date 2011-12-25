@@ -1,0 +1,249 @@
+THashie
+v4
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug/Hashie.app/Contents/Info.plist Hashie/Hashie-Info.plist
+cProcessPCH /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/PrecompiledHeaders/Hashie-Prefix-emxofqgcpbrnlvdjtrlmoxvuifmf/Hashie-Prefix.pch.pth Hashie/Hashie-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Objects-normal/x86_64/main.o /Users/willie_m5296/Documents/Hashie/Hashie/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Objects-normal/x86_64/AppDelegate.o /Users/willie_m5296/Documents/Hashie/Hashie/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Objects-normal/x86_64/NSString+MD5.o /Users/willie_m5296/Documents/Hashie/Hashie/NSString+MD5.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug/Hashie.app/Contents/MacOS/Hashie normal x86_64
+cCopyStringsFile /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug/Hashie.app/Contents/Resources/en.lproj/InfoPlist.strings Hashie/en.lproj/InfoPlist.strings
+cCpResource Hashie/en.lproj/Credits.rtf build/Hashie/Build/Products/Debug/Hashie.app/Contents/Resources/en.lproj/Credits.rtf
+cCompileXIB /Users/willie_m5296/Documents/Hashie/Hashie/en.lproj/MainMenu.xib
+cTouch /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug/Hashie.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004E7E236400000000000000EE
+t1316889444
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004E2F297C0000000000003430
+t1311713660
+s13360
+
+N/Users/willie_m5296/Documents/Hashie/Hashie/AppDelegate.h
+c000000004EF64A950000000000000183
+t1324763797
+s387
+
+N/Users/willie_m5296/Documents/Hashie/Hashie/AppDelegate.m
+c000000004EF64B800000000000000225
+t1324764032
+s549
+
+N/Users/willie_m5296/Documents/Hashie/Hashie/Hashie-Prefix.pch
+c000000004EF649E1000000000000008F
+t1324763617
+s143
+
+N/Users/willie_m5296/Documents/Hashie/Hashie/NSString+MD5.h
+c000000004EF64A9500000000000000E9
+t1324763797
+s233
+
+N/Users/willie_m5296/Documents/Hashie/Hashie/NSString+MD5.m
+c000000004EF64A950000000000000349
+t1324763797
+s841
+
+N/Users/willie_m5296/Documents/Hashie/Hashie/en.lproj/Credits.rtf
+c000000004EF649E100000000000001B4
+t1324763617
+s436
+
+N/Users/willie_m5296/Documents/Hashie/Hashie/en.lproj/InfoPlist.strings
+c000000004EF649E1000000000000002D
+t1324763617
+s45
+
+N/Users/willie_m5296/Documents/Hashie/Hashie/en.lproj/MainMenu.xib
+c000000004EF64C56000000000002571E
+t1324764246
+s153374
+
+N/Users/willie_m5296/Documents/Hashie/Hashie/main.m
+c000000004EF649E10000000000000102
+t1324763617
+s258
+
+N/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Objects-normal/x86_64/AppDelegate.o
+t1324764034
+s20840
+
+N/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Objects-normal/x86_64/Hashie.LinkFileList
+c000000004EF64A950000000000000198
+t1324763797
+s408
+
+N/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Objects-normal/x86_64/NSString+MD5.o
+t1324763806
+s4944
+
+N/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Objects-normal/x86_64/main.o
+t1324763806
+s2192
+
+N/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/PrecompiledHeaders/Hashie-Prefix-emxofqgcpbrnlvdjtrlmoxvuifmf/Hashie-Prefix.pch.pth
+t1324763806
+s10328748
+
+N/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug/Hashie.app
+t1324764206
+s102
+
+N/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug/Hashie.app/Contents/Info.plist
+t1324763797
+s1413
+
+N/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug/Hashie.app/Contents/MacOS/Hashie
+t1324764034
+s15940
+
+N/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug/Hashie.app/Contents/PkgInfo
+t1324763797
+s8
+
+N/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug/Hashie.app/Contents/Resources/en.lproj/Credits.rtf
+t1324763808
+s436
+
+N/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug/Hashie.app/Contents/Resources/en.lproj/InfoPlist.strings
+t1324763808
+s92
+
+N/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug/Hashie.app/Contents/Resources/en.lproj/MainMenu.nib
+t1324764206
+s34161
+
+NHashie/Hashie-Info.plist
+c000000004EF649E10000000000000451
+t1324763617
+s1105
+
+CBuild AST from /Users/willie_m5296/Documents/Hashie/Hashie/AppDelegate.m
+r0
+
+CBuild AST from /Users/willie_m5296/Documents/Hashie/Hashie/NSString+MD5.m
+r0
+
+CBuild AST from /Users/willie_m5296/Documents/Hashie/Hashie/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies40dc61d683a6b441^60ad62d683a6b441^---0#1#0#--18"Check dependencies36"EB6B5441-110D-428D-BD00-1170119A5DE6-
+
+CCompileC build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Objects-normal/x86_64/AppDelegate.o /Users/willie_m5296/Documents/Hashie/Hashie/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s346456833.273253
+e346456834.077600
+r1
+xCompileC
+xbuild/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/willie_m5296/Documents/Hashie/Hashie/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/willie_m5296/Documents/Hashie/Hashie/AppDelegate.m3d0f460183a6b441^14ec130283a6b441^---0#0#0#-19%DVTDocumentLocation2@73"file://localhost/Users/willie_m5296/Documents/Hashie/Hashie/AppDelegate.m0000000000000000^2371"CompileC build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Objects-normal/x86_64/AppDelegate.o Hashie/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/willie_m5296/Documents/Hashie    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Hashie-generated-files.hmap -I/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Hashie-own-target-headers.hmap -I/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Hashie-all-target-headers.hmap -iquote /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Hashie-project-headers.hmap -I/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug/include -I/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/DerivedSources/x86_64 -I/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/DerivedSources -F/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug -include /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/PrecompiledHeaders/Hashie-Prefix-emxofqgcpbrnlvdjtrlmoxvuifmf/Hashie-Prefix.pch -MMD -MT dependencies -MF /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Objects-normal/x86_64/AppDelegate.d -c /Users/willie_m5296/Documents/Hashie/Hashie/AppDelegate.m -o /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Objects-normal/x86_64/AppDelegate.o36"BCFA4C0C-AD5B-43B3-9E16-A7F7C5E48EC0-
+
+CCompileC build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Objects-normal/x86_64/NSString+MD5.o /Users/willie_m5296/Documents/Hashie/Hashie/NSString+MD5.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s346456606.421487
+e346456606.466872
+r1
+xCompileC
+xbuild/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Objects-normal/x86_64/NSString+MD5.o
+x/Users/willie_m5296/Documents/Hashie/Hashie/NSString+MD5.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/willie_m5296/Documents/Hashie/Hashie/NSString+MD5.m:23:17:{23:17-23:28}{23:5-23:11}: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'CC_LONG' (aka 'unsigned int') [-Wshorten-64-to-32,3]
+o     CC_MD5(ptr, strlen(ptr), md5Buffer);
+o     ~~~~~~      ^~~~~~~~~~~
+o1 warning generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/willie_m5296/Documents/Hashie/Hashie/NSString+MD5.m4f056c1e82a6b441^4df37a1e82a6b441^-326"/Users/willie_m5296/Documents/Hashie/Hashie/NSString+MD5.m:23:17:{23:17-23:28}{23:5-23:11}: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'CC_LONG' (aka 'unsigned int') [-Wshorten-64-to-32,3]     CC_MD5(ptr, strlen(ptr), md5Buffer);     ~~~~~~      ^~~~~~~~~~~1 warning generated.1(21%IDEActivityLogMessage2@109"Implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'CC_LONG' (aka 'unsigned int')53"Implicit conversion loses integer precision: 'size_t'346456606#0#234#-1#-23%DVTTextDocumentLocation3@74"file://localhost/Users/willie_m5296/Documents/Hashie/Hashie/NSString+MD5.m0000000000000000^22#16#22#16#18446744073709551615#0#14"Semantic Issue2(3@74"file://localhost/Users/willie_m5296/Documents/Hashie/Hashie/NSString+MD5.m0000000000000000^22#16#22#27#18446744073709551615#0#3@74"file://localhost/Users/willie_m5296/Documents/Hashie/Hashie/NSString+MD5.m0000000000000000^22#4#22#10#18446744073709551615#0#-0#0#0#-19%DVTDocumentLocation4@74"file://localhost/Users/willie_m5296/Documents/Hashie/Hashie/NSString+MD5.m0000000000000000^2376"CompileC build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Objects-normal/x86_64/NSString+MD5.o Hashie/NSString+MD5.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/willie_m5296/Documents/Hashie    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Hashie-generated-files.hmap -I/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Hashie-own-target-headers.hmap -I/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Hashie-all-target-headers.hmap -iquote /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Hashie-project-headers.hmap -I/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug/include -I/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/DerivedSources/x86_64 -I/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/DerivedSources -F/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug -include /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/PrecompiledHeaders/Hashie-Prefix-emxofqgcpbrnlvdjtrlmoxvuifmf/Hashie-Prefix.pch -MMD -MT dependencies -MF /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Objects-normal/x86_64/NSString+MD5.d -c /Users/willie_m5296/Documents/Hashie/Hashie/NSString+MD5.m -o /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Objects-normal/x86_64/NSString+MD5.o36"CD80BCA0-B686-4D46-B346-AD483DC67347-
+
+CCompileC build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Objects-normal/x86_64/main.o /Users/willie_m5296/Documents/Hashie/Hashie/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s346456606.191967
+e346456606.275947
+r1
+xCompileC
+xbuild/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Objects-normal/x86_64/main.o
+x/Users/willie_m5296/Documents/Hashie/Hashie/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/willie_m5296/Documents/Hashie/Hashie/main.m4241311e82a6b441^57ce461e82a6b441^---0#0#0#-19%DVTDocumentLocation2@66"file://localhost/Users/willie_m5296/Documents/Hashie/Hashie/main.m0000000000000000^2336"CompileC build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Objects-normal/x86_64/main.o Hashie/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/willie_m5296/Documents/Hashie    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Hashie-generated-files.hmap -I/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Hashie-own-target-headers.hmap -I/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Hashie-all-target-headers.hmap -iquote /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Hashie-project-headers.hmap -I/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug/include -I/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/DerivedSources/x86_64 -I/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/DerivedSources -F/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug -include /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/PrecompiledHeaders/Hashie-Prefix-emxofqgcpbrnlvdjtrlmoxvuifmf/Hashie-Prefix.pch -MMD -MT dependencies -MF /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Objects-normal/x86_64/main.d -c /Users/willie_m5296/Documents/Hashie/Hashie/main.m -o /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Objects-normal/x86_64/main.o36"FED6242B-20A4-41C6-B3D8-46FF5258CFDC-
+
+CCompileXIB /Users/willie_m5296/Documents/Hashie/Hashie/en.lproj/MainMenu.xib
+s346457046.423579
+e346457046.622914
+r1
+xCompileXIB
+x/Users/willie_m5296/Documents/Hashie/Hashie/en.lproj/MainMenu.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compiling /Users/willie_m5296/Documents/Hashie/Hashie/en.lproj/MainMenu.xibe2cb6cd683a6b441^3cfa9fd683a6b441^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/willie_m5296/Documents/Hashie/Hashie/en.lproj/MainMenu.xib0000000000000000^474"CompileXIB Hashie/en.lproj/MainMenu.xib    cd /Users/willie_m5296/Documents/Hashie    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug/Hashie.app/Contents/Resources/en.lproj/MainMenu.nib /Users/willie_m5296/Documents/Hashie/Hashie/en.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk36"EB304D19-CC1C-49D9-A299-9BEBAF32EB57-
+
+CCopyStringsFile /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug/Hashie.app/Contents/Resources/en.lproj/InfoPlist.strings Hashie/en.lproj/InfoPlist.strings
+s346456608.333533
+e346456608.423011
+r1
+xCopyStringsFile
+x/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug/Hashie.app/Contents/Resources/en.lproj/InfoPlist.strings
+xHashie/en.lproj/InfoPlist.strings
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Copy Hashie/en.lproj/InfoPlist.strings64405a2082a6b441^a54e6c2082a6b441^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/willie_m5296/Documents/Hashie/Hashie/en.lproj/InfoPlist.strings0000000000000000^422"CopyStringsFile build/Hashie/Build/Products/Debug/Hashie.app/Contents/Resources/en.lproj/InfoPlist.strings Hashie/en.lproj/InfoPlist.strings    cd /Users/willie_m5296/Documents/Hashie    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug/Hashie.app/Contents/Resources/en.lproj -- Hashie/en.lproj/InfoPlist.strings36"28CE3B49-A95C-4DF8-A9EC-0AFE7C63B28E-
+
+CCpResource Hashie/en.lproj/Credits.rtf build/Hashie/Build/Products/Debug/Hashie.app/Contents/Resources/en.lproj/Credits.rtf
+s346456608.333535
+e346456608.422920
+r1
+xCpResource
+xHashie/en.lproj/Credits.rtf
+xbuild/Hashie/Build/Products/Debug/Hashie.app/Contents/Resources/en.lproj/Credits.rtf
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Copy build/Hashie/Build/Products/Debug/Hashie.app/Contents/Resources/en.lproj/Credits.rtfaf3e5a2082a6b441^a6466c2082a6b441^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug/Hashie.app/Contents/Resources/en.lproj/Credits.rtf00f8b020dcffdf42^455"CpResource Hashie/en.lproj/Credits.rtf build/Hashie/Build/Products/Debug/Hashie.app/Contents/Resources/en.lproj/Credits.rtf    cd /Users/willie_m5296/Documents/Hashie    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/willie_m5296/Documents/Hashie/Hashie/en.lproj/Credits.rtf /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug/Hashie.app/Contents/Resources/en.lproj36"AB9E72CF-F389-4100-A2FD-A43CA43130BF-
+
+CLd /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug/Hashie.app/Contents/MacOS/Hashie normal x86_64
+s346456834.079926
+e346456834.287547
+r1
+xLd
+x/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug/Hashie.app/Contents/MacOS/Hashie
+xnormal
+xx86_64
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Link /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug/Hashie.app/Contents/MacOS/Hashie6e89140283a6b441^3b514e0283a6b441^---0#0#0#--702"Ld build/Hashie/Build/Products/Debug/Hashie.app/Contents/MacOS/Hashie normal x86_64    cd /Users/willie_m5296/Documents/Hashie    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/clang -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug -F/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug -filelist /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Objects-normal/x86_64/Hashie.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug/Hashie.app/Contents/MacOS/Hashie36"6983D4B4-2396-4C98-A7BB-D41F385E13A7-
+
+CProcessInfoPlistFile /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug/Hashie.app/Contents/Info.plist Hashie/Hashie-Info.plist
+s346456597.721707
+e346456597.727144
+r1
+xProcessInfoPlistFile
+x/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug/Hashie.app/Contents/Info.plist
+xHashie/Hashie-Info.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Process Hashie/Hashie-Info.plistd4d6b81582a6b441^a582ba1582a6b441^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/willie_m5296/Documents/Hashie/Hashie/Hashie-Info.plist0000000000000000^463"ProcessInfoPlistFile build/Hashie/Build/Products/Debug/Hashie.app/Contents/Info.plist Hashie/Hashie-Info.plist    cd /Users/willie_m5296/Documents/Hashie    builtin-infoPlistUtility Hashie/Hashie-Info.plist -genpkginfo /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug/Hashie.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug/Hashie.app/Contents/Info.plist36"76066A41-EBA5-4D66-9B10-04E469354EDE-
+
+CProcessPCH /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/PrecompiledHeaders/Hashie-Prefix-emxofqgcpbrnlvdjtrlmoxvuifmf/Hashie-Prefix.pch.pth Hashie/Hashie-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s346456597.730762
+e346456606.189796
+r1
+xProcessPCH
+x/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/PrecompiledHeaders/Hashie-Prefix-emxofqgcpbrnlvdjtrlmoxvuifmf/Hashie-Prefix.pch.pth
+xHashie/Hashie-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile Hashie/Hashie-Prefix.pchd730bb1582a6b441^ff96301e82a6b441^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/willie_m5296/Documents/Hashie/Hashie/Hashie-Prefix.pch0000000000000000^2247"ProcessPCH build/Hashie/Build/PrecompiledHeaders/Hashie-Prefix-emxofqgcpbrnlvdjtrlmoxvuifmf/Hashie-Prefix.pch.pth Hashie/Hashie-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/willie_m5296/Documents/Hashie    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Hashie-generated-files.hmap -I/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Hashie-own-target-headers.hmap -I/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Hashie-all-target-headers.hmap -iquote /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/Hashie-project-headers.hmap -I/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug/include -I/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/DerivedSources/x86_64 -I/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Intermediates/Hashie.build/Debug/Hashie.build/DerivedSources -F/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug -c /Users/willie_m5296/Documents/Hashie/Hashie/Hashie-Prefix.pch -o /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/PrecompiledHeaders/Hashie-Prefix-emxofqgcpbrnlvdjtrlmoxvuifmf/Hashie-Prefix.pch.pth -MMD -MT dependencies -MF /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/PrecompiledHeaders/Hashie-Prefix-emxofqgcpbrnlvdjtrlmoxvuifmf/Hashie-Prefix.pch.d36"4946DB89-87CB-4F42-97A8-664FA712F581-
+
+CProcessPCH /Users/willie_m5296/Documents/Hashie/build/Hashie/Index/PrecompiledHeaders/Hashie-Prefix-ewbgjugzyvozjlcqlctqjhqrjurm_ast/Hashie-Prefix.pch.pth Hashie/Hashie-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug/Hashie.app
+s346457046.625983
+e346457046.638541
+r1
+xTouch
+x/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug/Hashie.app
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Touch /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug/Hashie.app6e4fa0d683a6b441^1284a3d683a6b441^---0#0#0#--199"Touch build/Hashie/Build/Products/Debug/Hashie.app    cd /Users/willie_m5296/Documents/Hashie    /usr/bin/touch -c /Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug/Hashie.app36"0FC385BB-E260-48CD-84DA-FD17496A4029-
+

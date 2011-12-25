@@ -1,0 +1,28 @@
+Contents of /Users/willie_m5296/Documents/Hashie/Hashie/Hashie-Prefix.pch
+3.0 (tags/Apple/clang-211.9) (based on LLVM 3.0svn)
+x86_64-apple-darwin10.8.0
+-x
+objective-c
+-arch
+x86_64
+-fmessage-length=0
+-fdiagnostics-print-source-range-info
+-fdiagnostics-show-category=id
+-fdiagnostics-parseable-fixits
+-std=gnu99
+-fpascal-strings
+-O0
+-DDEBUG=1
+-isysroot
+/Developer/SDKs/MacOSX10.6.sdk
+-fasm-blocks
+-mmacosx-version-min=10.6
+-gdwarf-2
+-DIBOutlet=__attribute__((iboutlet))
+-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))
+-DIBAction=void)__attribute__((ibaction)
+-iquote
+-iquote
+-I/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug/include
+-F/Users/willie_m5296/Documents/Hashie/build/Hashie/Build/Products/Debug
+SDK_PRODUCT_BUILD_VERSION=10K549
